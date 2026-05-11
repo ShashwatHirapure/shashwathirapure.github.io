@@ -63353,7 +63353,7 @@ s.toString
 return B.c.aQ(r,s)},
 $S:408}
 A.zy.prototype={
-R(a5){var s,r,q,p,o,n,m=null,l="assets/images/flutter.png",k="assets/images/android.png",j="assets/images/ios.png",i="assets/images/java.png",h="assets/images/sql.png",g="assets/images/firebase.png",f="assets/images/kotlin.png",e="assets/images/php.png",d="assets/images/python.png",c=t.w,b=A.bL(a5,m,c).w.a.a<600,a=A.bL(a5,m,c).w.a.a<1000&&!b,a0=A.bL(a5,m,c).w,a1=A.b5(a5,-100,-80,-50),a2=A.b5(a5,-100,-80,-50),a3=A.b5(a5,300,200,100),a4=A.b5(a5,300,200,100)
+R(a5){var s,r,q,p,o,n,m=null,l="assets/images/flutter.png",k="assets/images/android.png",j="assets/images/ios.png",i="assets/images/java.png",h="assets/images/sql.png",g="assets/images/firebase.png",f="assets/images/kotlin.png",e="assets/images/php.png",d="assets/images/python.png",c=t.w,b=A.bL(a5,m,c).w.a.a<600,a=A.bL(a5,m,c).w.a.a<1000&&!b,a0=b?800:A.bL(a5,m,c).w.a.b,a1=A.b5(a5,-100,-80,-50),a2=A.b5(a5,-100,-80,-50),a3=A.b5(a5,300,200,100),a4=A.b5(a5,300,200,100)
 a1=A.jJ(m,A.eP(m,new A.cQ(A.aC(38,B.ca.A()>>>16&255,B.ca.A()>>>8&255,B.ca.A()&255),m,m,m,m,m,B.dL),a4,m,m,a3),m,m,a2,m,a1,m)
 a2=A.b5(a5,-120,-80,-50)
 a3=A.b5(a5,-120,-80,-50)
@@ -63378,7 +63378,7 @@ if(p&&!a){a1=A.b5(a5,30,20,15)
 o=J.a9H(5,t.l7)
 for(n=0;n<5;++n)o[n]=A.adi(B.kn,B.ca,m,A.b5(a5,30,22,15))
 c.push(A.jJ(0,A.qC(A.h3(A.d([A.uK(o,B.S,B.U,B.c9),B.HX,A.k1("6+ Years\nOf\nExperience",A.dl(m,m,m,m,m,m,m,m,m,m,m,A.b5(a5,30,22,15),m,m,B.b1,m,m,!0,m,m,m,m,m,m,m,m),B.bS)],r),B.S,B.U,B.c9),m,m),m,m,m,a1,0,m))}if(p&&!a){a1=A.b5(a5,40,30,20)
-c.push(A.jJ(0,A.qC(A.dy(A.h3(A.d([A.qC(A.uK(A.d([A.t1("assets/images/quote.png",m,50),new A.f3(new A.bi(0,40,0,0),A.k1("SKILLS",A.dl(m,m,B.l,m,m,m,m,m,m,m,m,A.b5(a5,40,30,20),m,m,B.hE,m,m,!0,m,m,m,m,m,m,m,m),m),m)],r),B.S,B.U,B.as),m,m),B.va,A.afn(B.cw,A.d([A.uK(A.d([A.h3(A.d([A.kF(a5,l,"Flutter"),A.dy(m,20,m),A.kF(a5,k,"Android"),A.dy(m,20,m),A.kF(a5,j,"iOS"),A.dy(m,20,m),A.kF(a5,i,"Java"),A.dy(m,20,m),A.kF(a5,h,"SQL")],r),B.S,B.i_,B.as),A.h3(A.d([A.kF(a5,g,"Firebase"),A.dy(m,20,m),A.kF(a5,f,"Kotlin"),A.dy(m,20,m),A.kF(a5,e,"PHP"),A.dy(m,20,m),A.kF(a5,d,"Python")],r),B.S,B.U,B.as)],r),B.S,B.U,B.as)],r),20,20)],r),B.aZ,B.U,B.c9),m,220),m,m),m,m,a1,m,0,m))}c=A.dy(A.F1(B.a0,c,B.al,B.f3),a0.a.b,m)
+c.push(A.jJ(0,A.qC(A.dy(A.h3(A.d([A.qC(A.uK(A.d([A.t1("assets/images/quote.png",m,50),new A.f3(new A.bi(0,40,0,0),A.k1("SKILLS",A.dl(m,m,B.l,m,m,m,m,m,m,m,m,A.b5(a5,40,30,20),m,m,B.hE,m,m,!0,m,m,m,m,m,m,m,m),m),m)],r),B.S,B.U,B.as),m,m),B.va,A.afn(B.cw,A.d([A.uK(A.d([A.h3(A.d([A.kF(a5,l,"Flutter"),A.dy(m,20,m),A.kF(a5,k,"Android"),A.dy(m,20,m),A.kF(a5,j,"iOS"),A.dy(m,20,m),A.kF(a5,i,"Java"),A.dy(m,20,m),A.kF(a5,h,"SQL")],r),B.S,B.i_,B.as),A.h3(A.d([A.kF(a5,g,"Firebase"),A.dy(m,20,m),A.kF(a5,f,"Kotlin"),A.dy(m,20,m),A.kF(a5,e,"PHP"),A.dy(m,20,m),A.kF(a5,d,"Python")],r),B.S,B.U,B.as)],r),B.S,B.U,B.as)],r),20,20)],r),B.aZ,B.U,B.c9),m,220),m,m),m,m,a1,m,0,m))}c=A.dy(A.F1(B.a0,c,B.al,B.f3),a0,m)
 a0=A.b5(a5,30,20,15)
 a1=A.b5(a5,30,20,15)
 a2=A.d([B.l,A.ar(4279369733),A.ar(4280942602),A.ar(4283236370)],t.t_)
